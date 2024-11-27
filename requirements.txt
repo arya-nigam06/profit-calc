@@ -1,2 +1,1 @@
-streamlit==1.25.0  # Ensure compatibility with your version of Python
-json5  # Optional: For advanced JSON handling (default JSON module works fine)
+streamlit==1.20.0 
